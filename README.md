@@ -1,3 +1,3 @@
 The result of the html and css in photo
 <br>
-<img src="https://github.com/kashish0903/lovaldemo/blob/main/Screenshot%20(289).png?raw=true"
+<img src="file:///C:/Users/Asus/Downloads/Screenshot%20(289)%20(3).png"
